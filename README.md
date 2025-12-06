@@ -11,8 +11,11 @@
   <a href="mailto:cdevansh913@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/devansh-chaudhary-26ba73311">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Hacktoberfest-Super_Contributor-FFD700?style=for-the-badge&logo=hacktoberfest&logoColor=black" />
   </a>
 </div>
 
@@ -22,9 +25,9 @@
 
 I am a passionate developer bridging the world of **Web Development** and **Artificial Intelligence**. 
 
-- 🔭 Working on **OwnTube**: A scalable video-sharing platform (MERN Stack).
+- 🔭 Working on **OwnTube**: A scalable video-sharing platform.
 - 🌱 Learning **Deep Learning, LLMs, and Generative AI**.
-- 🏆 Competitive Programmer solving problems in **C++**.
+- 🏆 **Hacktoberfest 2025 Super Contributor**.
 - ⚡ Fun fact: I'm currently on a **100 Days of Machine Learning** journey.
 
 ---
@@ -32,6 +35,14 @@ I am a passionate developer bridging the world of **Web Development** and **Arti
 ### 🛠️ Tech Stack
 
 <div align="left">
+
+**Languages:**<br>
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
 **Frontend & Backend (MERN):**<br>
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -41,14 +52,13 @@ I am a passionate developer bridging the world of **Web Development** and **Arti
 <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 **AI & Machine Learning:**<br>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-**Languages & Tools:**<br>
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+**Tools:**<br>
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
