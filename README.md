@@ -15,10 +15,10 @@
 
 </div>
 
-I am a Full Stack Developer passionate about **AI**, **Machine Learning**, and **modern web engineering**.  
-I focus on building clean, scalable applications with strong attention to UI/UX and architecture.  
+I’m a Full Stack Developer passionate about **Web Development**, **AI**, and **Machine Learning**.  
+I focus on creating clean, scalable applications with smooth UI and strong architectural foundations.  
 
-Currently working on a video-sharing platform **OwnTube**, built using the MERN stack with **custom CSS styling** for full design control.
+Currently building **OwnTube**, a MERN-based modern video-sharing platform styled completely with **custom CSS** for full design control.
 
 ---
 
@@ -32,7 +32,7 @@ Currently working on a video-sharing platform **OwnTube**, built using the MERN 
 
 ### 🧩 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,css,html,python,pytorch,tensorflow,cpp,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,python,pytorch,tensorflow,cpp,git,github" />
 </p>
 
 ---
@@ -81,18 +81,18 @@ Currently working on a video-sharing platform **OwnTube**, built using the MERN 
 </div>
 
 ### 🎥 **OwnTube — MERN Video Platform (WIP)**  
-A modern YouTube-style platform focused on **clean UI**, **smooth interactions**, and **scalable backend architecture**.
+A sleek, modern video-sharing platform inspired by YouTube, built with **custom CSS** for full creative freedom.
 
-#### 🔹 Key Highlights  
-- 🔐 Secure login & session handling  
-- 🎨 Fully custom UI built with **handcrafted CSS**  
-- ⚡ React components optimized for maintainability  
-- 🔧 Node.js + Express backend with modular routing  
-- 🗂️ MongoDB database with structured models  
-- 📤 Video upload flow (in progress)
+#### 🔹 Highlights  
+- 🔐 Secure authentication  
+- 🎨 Fully custom UI using **pure CSS**  
+- ⚛️ Modular React components  
+- 🧩 Clean Express backend with structured routing  
+- 🗂️ MongoDB models for users & uploads  
+- 📤 Upload pipeline in progress  
 
-#### 🎯 Project Goal  
-Create a sleek, efficient, and scalable video-sharing platform that feels modern and intuitive.
+#### 🎯 Objective  
+Create a fast, intuitive, and scalable content-sharing platform.
 
 ---
 
@@ -100,14 +100,13 @@ Create a sleek, efficient, and scalable video-sharing platform that feels modern
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Overview  
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=devansh-125&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
-
-- 🔥 Consistent contributor across Web + AI ecosystems  
-- 🧩 Building real projects with solid architectural foundations  
-- 🧹 Clean code, meaningful commits, and organized repos  
-- 🚀 Always improving skills & delivering better solutions  
 
 ---
 
