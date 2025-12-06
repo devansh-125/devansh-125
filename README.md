@@ -3,7 +3,7 @@
 # 👋 Hi, I'm **Devansh Chaudhary**
 ### Full Stack Developer • AI & Deep Learning Enthusiast
 
-I love building scalable digital experiences and integrating AI-driven functionality into modern web applications.
+I love building scalable digital experiences and integrating AI functionalities into modern web applications.
 
 <br>
 
@@ -24,63 +24,30 @@ I love building scalable digital experiences and integrating AI-driven functiona
 
 ## 👨‍💻 About Me
 
-I'm a developer passionate about **Web Development**, **AI**, and **building products** that make an impact.  
-I enjoy working across the stack — from frontend UI to backend APIs to machine learning integration.
+I'm a developer passionate about **Web Development**, **AI**, and building projects that create real impact.
 
-- 🎥 Currently building **OwnTube** — a MERN-based video-sharing platform *(Work In Progress)*  
-- 🌱 Exploring Deep Learning, Model Training, and AI-driven features  
-- 🛠 Love designing scalable systems and clean architectures  
+- 🎥 Currently building **OwnTube** — MERN-based video-sharing platform *(WIP)*  
+- 🧠 Exploring Deep Learning & ML model integration  
+- 💻 Love clean architecture, scalable backend, and UI/UX focus  
 
 ---
 
-## ⚔️ Tech Stack & Skills
+## ⚔️ Tech Stack (Compact)
 
-### **Languages**
-- JavaScript (ES6+), TypeScript  
-- Python  
-- C, C++
+<div align="center">
 
-### **Frontend**
-- React.js  
-- HTML5, CSS3  
-- TailwindCSS  
-- Component-driven UI development  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,pytorch,tensorflow,js,cpp,git,github&perline=12" />
 
-### **Backend**
-- Node.js  
-- Express.js  
-- REST API Design  
-- JWT Authentication  
-- Middleware Architecture  
-
-### **Databases**
-- MongoDB  
-- Mongoose ODM  
-- Basic Redis for caching  
-
-### **Machine Learning**
-- PyTorch  
-- TensorFlow  
-- Scikit-learn  
-- Data preprocessing & ML pipelines  
-
-### **Tools & DevOps**
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Linux (Basic Shell)  
-- JSON / API Testing  
-- GitHub Projects, Issues, PR workflow  
+</div>
 
 ---
 
 ## 🚀 Featured Project
 
 ### 🔹 **OwnTube — MERN Video Platform (WIP)**  
-A YouTube-inspired platform focusing on scalable backend architecture and AI-driven features.  
-**Current Progress:** UI, auth, backend setup, upload system (partial).  
-
-**Tech Used:** React, Node.js, Express, MongoDB, TailwindCSS  
+A YouTube-like platform built with focus on scalability and modern UI.  
+**Current Progress:** Auth, UI screens, backend structure, upload system (partial).  
+**Tech:** React, Node.js, Express, MongoDB, TailwindCSS  
 
 ---
 
@@ -88,11 +55,11 @@ A YouTube-inspired platform focusing on scalable backend architecture and AI-dri
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devansh-125&show_icons=true&theme=radical&hide_border=true" height="160"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devansh-125&show_icons=true&theme=radical&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-125&layout=compact&theme=radical&hide_border=true" height="160"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devansh-125&layout=compact&theme=radical&hide_border=true" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-125&theme=radical&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devansh-125&theme=radical&hide_border=true" height="160"/>
 
 </div>
 
@@ -100,13 +67,13 @@ A YouTube-inspired platform focusing on scalable backend architecture and AI-dri
 
 ## 🤝 Connect With Me
 
-- 📧 Email: **cdevansh913@gmail.com**  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/devansh-chaudhary-26ba73311**
+- 📧 **Email:** cdevansh913@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/devansh-chaudhary-26ba73311  
 
 ---
 
 <div align="center">
 
-✨ *Thanks for visiting my profile — feel free to explore my repositories!* ✨
+✨ *Thanks for visiting! Feel free to explore my repositories.* ✨
 
 </div>
