@@ -1,67 +1,71 @@
-<div align="center">
+# 👋 Hi, I'm Devansh Chaudhary
+**Full Stack Developer • AI & Deep Learning Enthusiast**
 
-# 👋 Hi, I'm **Devansh Chaudhary**
-### Full Stack Developer • AI & Deep Learning Enthusiast
+I build scalable web applications and integrate AI-driven features to deliver meaningful digital experiences.
 
-I love building scalable digital experiences and integrating AI features in modern applications.
+---
 
-<br>
+## 📛 Badges (Safe & Stable)
 
-<img src="https://komarev.com/ghpvc/?username=devansh-125&style=for-the-badge&color=blue" />
-
-<br><br>
-
-<a href="mailto:cdevansh913@gmail.com">
-  <img src="https://img.shields.io/badge/Email-cdevansh913%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/devansh-chaudhary-26ba73311">
-  <img src="https://img.shields.io/badge/LinkedIn-Devansh%20Chaudhary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=devansh-125&style=flat&color=blue)
+![Followers](https://img.shields.io/github/followers/devansh-125?style=flat&color=blue)
+![Stars](https://img.shields.io/github/stars/devansh-125?style=flat&color=success)
 
 ---
 
 ## 👨‍💻 About Me
+I’m passionate about **Web Development**, **AI**, and clean, scalable architectures.
 
-I'm a developer passionate about **Web Development**, **AI**, and building impactful digital products.
-
-- 🎥 Working on **OwnTube** — MERN video-sharing platform *(WIP)*  
-- 🧠 Exploring Deep Learning & ML model integration  
-- ⚙ Interested in scalable backend systems & clean architecture  
+- 🎥 Currently building **OwnTube** — MERN video-sharing platform *(Work In Progress)*  
+- 🧠 Exploring practical Deep Learning & AI integration  
+- 💻 Interested in backend architecture & intuitive frontend design  
 
 ---
 
-## ⚔️ Tech Stack
+## ⚔️ Tech Snapshot (Compact, Clean)
 
-<div align="center">
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,pytorch,tensorflow,cpp,git,github&perline=11" />
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
-</div>
+**Machine Learning:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Featured Project
 
-### **OwnTube — MERN Video Platform (WIP)**  
-A YouTube-style video platform focusing on modern UI + scalable backend.  
-**Progress:** Auth, UI screens, backend setup, initial upload flow.  
+### **OwnTube — MERN Video Platform (WIP)**
+A YouTube-style video platform focusing on modern UI and scalable backend.
+
+**Progress:** Auth system, UI screens, backend structure, initial upload flow  
 **Tech:** React, Node.js, Express, MongoDB, TailwindCSS  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
-### ✔ Official GitHub Stats (never break)
+*(No external image cards — stays clean and never breaks.)*
 
-<div align="center">
+- ✔ Active contributor  
+- ✔ Multiple repositories across Web + ML  
+- ✔ Clean coding practices & documentation focus  
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devansh-125&theme=radical&show_icons=true&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devansh-125&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
+You can explore all pinned repositories on my profile.
 
 ---
 
@@ -69,6 +73,7 @@ A YouTube-style video platform focusing on modern UI + scalable backend.
 
 - 📧 Email: **cdevansh913@gmail.com**  
 - 🔗 LinkedIn: https://www.linkedin.com/in/devansh-chaudhary-26ba73311  
+- 🐙 GitHub: https://github.com/devansh-125  
 
 ---
 
