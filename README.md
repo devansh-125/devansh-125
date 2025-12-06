@@ -3,7 +3,7 @@
 # 👋 Hi, I'm **Devansh Chaudhary**
 ### Full Stack Developer • AI & Deep Learning Enthusiast
 
-I love building scalable digital experiences and integrating AI functionalities into modern web applications.
+I love building scalable digital experiences and integrating AI features in modern applications.
 
 <br>
 
@@ -24,19 +24,19 @@ I love building scalable digital experiences and integrating AI functionalities 
 
 ## 👨‍💻 About Me
 
-I'm a developer passionate about **Web Development**, **AI**, and building projects that create real impact.
+I'm a developer passionate about **Web Development**, **AI**, and building impactful digital products.
 
-- 🎥 Currently building **OwnTube** — MERN-based video-sharing platform *(WIP)*  
+- 🎥 Working on **OwnTube** — MERN video-sharing platform *(WIP)*  
 - 🧠 Exploring Deep Learning & ML model integration  
-- 💻 Love clean architecture, scalable backend, and UI/UX focus  
+- ⚙ Interested in scalable backend systems & clean architecture  
 
 ---
 
-## ⚔️ Tech Stack (Compact)
+## ⚔️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,pytorch,tensorflow,js,cpp,git,github&perline=12" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,pytorch,tensorflow,cpp,git,github&perline=11" />
 
 </div>
 
@@ -44,22 +44,22 @@ I'm a developer passionate about **Web Development**, **AI**, and building proje
 
 ## 🚀 Featured Project
 
-### 🔹 **OwnTube — MERN Video Platform (WIP)**  
-A YouTube-like platform built with focus on scalability and modern UI.  
-**Current Progress:** Auth, UI screens, backend structure, upload system (partial).  
+### **OwnTube — MERN Video Platform (WIP)**  
+A YouTube-style video platform focusing on modern UI + scalable backend.  
+**Progress:** Auth, UI screens, backend setup, initial upload flow.  
 **Tech:** React, Node.js, Express, MongoDB, TailwindCSS  
 
 ---
 
 ## 📊 GitHub Analytics
 
+### ✔ Official GitHub Stats (never break)
+
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devansh-125&show_icons=true&theme=radical&hide_border=true" height="160"/>
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devansh-125&theme=radical&show_icons=true&hide_border=true"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devansh-125&layout=compact&theme=radical&hide_border=true" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=devansh-125&theme=radical&hide_border=true" height="160"/>
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devansh-125&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -67,13 +67,13 @@ A YouTube-like platform built with focus on scalability and modern UI.
 
 ## 🤝 Connect With Me
 
-- 📧 **Email:** cdevansh913@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/devansh-chaudhary-26ba73311  
+- 📧 Email: **cdevansh913@gmail.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/devansh-chaudhary-26ba73311  
 
 ---
 
 <div align="center">
 
-✨ *Thanks for visiting! Feel free to explore my repositories.* ✨
+✨ *Thanks for visiting — feel free to explore my repositories!* ✨
 
 </div>
