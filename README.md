@@ -53,21 +53,10 @@ I am a passionate developer bridging the world of **Web Development** and **Arti
 
 ### ⚔️ Tech Arsenal
 
-<div align="left">
-
-**Languages & Tools:**<br>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github" />
-
-<br><br>
-
-**MERN Stack:**<br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
-
-<br><br>
-
-**AI & Machine Learning:**<br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-
+<div align="center">
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,python,tensorflow,pytorch,sklearn,c,cpp,git,github" />
+  <br>
 </div>
 
 ---
