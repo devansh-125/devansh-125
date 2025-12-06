@@ -1,21 +1,21 @@
 <div align="center">
 
 # 👋 Hi, I'm **Devansh Chaudhary**
-### Full Stack Developer • AI & Deep Learning Enthusiast • Open Source Contributor
+### Full Stack Developer • AI & Deep Learning Enthusiast
 
-I build scalable web applications and integrate machine learning systems to create meaningful real-world impact.
+I love building scalable digital experiences and integrating AI-driven functionality into modern web applications.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=devansh-125&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=devansh-125&style=for-the-badge&color=blue" />
 
 <br><br>
 
 <a href="mailto:cdevansh913@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-cdevansh913%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/devansh-chaudhary-26ba73311">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Devansh%20Chaudhary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -24,47 +24,63 @@ I build scalable web applications and integrate machine learning systems to crea
 
 ## 👨‍💻 About Me
 
-I’m a developer passionate about **Web Development**, **AI**, and **Open Source**, striving to build products that are both technically strong and user-centric.
+I'm a developer passionate about **Web Development**, **AI**, and **building products** that make an impact.  
+I enjoy working across the stack — from frontend UI to backend APIs to machine learning integration.
 
-- 🔭 Currently building **OwnTube** — a MERN-based scalable video-sharing platform  
-- 🌱 Learning **Deep Learning, LLMs, and Generative AI**  
-- 🎯 Preparing for **GSoC 2026** & software engineering placements  
-- 🤝 Actively contributing to open-source communities
-
----
-
-## 🚀 Current Focus
-
-| Area | What I'm doing |
-|------|----------------|
-| 🎥 **OwnTube** | Building a scalable MERN video platform with ML-based recommendations |
-| 🤝 **Open Source** | Contributing to projects, writing clean PRs, improving documentation |
-| 🧠 **AI Integration** | Implementing DL/NLP models into production web apps |
-| 📚 **Skills Growth** | System design, DSA, backend scalability |
+- 🎥 Currently building **OwnTube** — a MERN-based video-sharing platform *(Work In Progress)*  
+- 🌱 Exploring Deep Learning, Model Training, and AI-driven features  
+- 🛠 Love designing scalable systems and clean architectures  
 
 ---
 
-## ⚔️ Tech Arsenal
+## ⚔️ Tech Stack & Skills
 
-<div align="center">
+### **Languages**
+- JavaScript (ES6+), TypeScript  
+- Python  
+- C, C++
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,python,tensorflow,pytorch,sklearn,c,cpp,git,github" />
+### **Frontend**
+- React.js  
+- HTML5, CSS3  
+- TailwindCSS  
+- Component-driven UI development  
 
-</div>
+### **Backend**
+- Node.js  
+- Express.js  
+- REST API Design  
+- JWT Authentication  
+- Middleware Architecture  
+
+### **Databases**
+- MongoDB  
+- Mongoose ODM  
+- Basic Redis for caching  
+
+### **Machine Learning**
+- PyTorch  
+- TensorFlow  
+- Scikit-learn  
+- Data preprocessing & ML pipelines  
+
+### **Tools & DevOps**
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Linux (Basic Shell)  
+- JSON / API Testing  
+- GitHub Projects, Issues, PR workflow  
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Featured Project
 
-### 🔹 **OwnTube — Scalable Video Platform (MERN + ML)**
-A YouTube-like platform built with scalability and ML integration in mind.  
-Features: authentication, uploads, streaming UI, recommendations (WIP).
+### 🔹 **OwnTube — MERN Video Platform (WIP)**  
+A YouTube-inspired platform focusing on scalable backend architecture and AI-driven features.  
+**Current Progress:** UI, auth, backend setup, upload system (partial).  
 
-### 🔹 **Movie Recommendation System**
-Hybrid filtering model using Python + scikit-learn.
-
-### 🔹 **Library Management System**
-Frontend project using HTML, CSS, JS with a clean dashboard UI.
+**Tech Used:** React, Node.js, Express, MongoDB, TailwindCSS  
 
 ---
 
@@ -85,12 +101,12 @@ Frontend project using HTML, CSS, JS with a clean dashboard UI.
 ## 🤝 Connect With Me
 
 - 📧 Email: **cdevansh913@gmail.com**  
-- 🔗 LinkedIn: **/devansh-chaudhary-26ba73311**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/devansh-chaudhary-26ba73311**
 
 ---
 
 <div align="center">
 
-✨ *Thanks for stopping by! Feel free to explore my repositories and collaborate.* ✨
+✨ *Thanks for visiting my profile — feel free to explore my repositories!* ✨
 
 </div>
