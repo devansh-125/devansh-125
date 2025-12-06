@@ -15,9 +15,10 @@
 
 </div>
 
-Passionate Full Stack Developer exploring the world of **AI**, **Machine Learning**, and **modern web tech**.  
-Focused on building scalable digital experiences with clean, optimized architectures.  
-Currently developing a modern video-sharing platform **OwnTube** using the MERN stack.
+I am a Full Stack Developer passionate about **AI**, **Machine Learning**, and **modern web engineering**.  
+I focus on building clean, scalable applications with strong attention to UI/UX and architecture.  
+
+Currently working on a video-sharing platform **OwnTube**, built using the MERN stack with **custom CSS styling** for full design control.
 
 ---
 
@@ -31,7 +32,7 @@ Currently developing a modern video-sharing platform **OwnTube** using the MERN 
 
 ### 🧩 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,python,pytorch,tensorflow,cpp,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,css,html,python,pytorch,tensorflow,cpp,git,github" />
 </p>
 
 ---
@@ -52,7 +53,7 @@ Currently developing a modern video-sharing platform **OwnTube** using the MERN 
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -80,12 +81,18 @@ Currently developing a modern video-sharing platform **OwnTube** using the MERN 
 </div>
 
 ### 🎥 **OwnTube — MERN Video Platform (WIP)**  
-A modern content-sharing platform inspired by YouTube, designed with scalability and clean UI in mind.
+A modern YouTube-style platform focused on **clean UI**, **smooth interactions**, and **scalable backend architecture**.
 
-- 🔐 Authentication & user sessions  
-- 🎨 React + Tailwind responsive UI  
-- ⚡ Express API + MongoDB storage  
-- 📤 Upload pipeline (in progress)  
+#### 🔹 Key Highlights  
+- 🔐 Secure login & session handling  
+- 🎨 Fully custom UI built with **handcrafted CSS**  
+- ⚡ React components optimized for maintainability  
+- 🔧 Node.js + Express backend with modular routing  
+- 🗂️ MongoDB database with structured models  
+- 📤 Video upload flow (in progress)
+
+#### 🎯 Project Goal  
+Create a sleek, efficient, and scalable video-sharing platform that feels modern and intuitive.
 
 ---
 
@@ -97,10 +104,10 @@ A modern content-sharing platform inspired by YouTube, designed with scalability
 
 </div>
 
-- 🔥 Active contributor across Web + AI repositories  
-- 🧩 Practical experience in ML + Full Stack projects  
-- 🛠 Clean code, organized repos, structured commits  
-- 🚀 Always learning, building, and optimizing  
+- 🔥 Consistent contributor across Web + AI ecosystems  
+- 🧩 Building real projects with solid architectural foundations  
+- 🧹 Clean code, meaningful commits, and organized repos  
+- 🚀 Always improving skills & delivering better solutions  
 
 ---
 
